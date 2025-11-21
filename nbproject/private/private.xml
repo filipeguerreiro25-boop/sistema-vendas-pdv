@@ -3,17 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/TelaClientes.java</file>
             <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/ListarProdutos.java</file>
+            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/model/Usuario.java</file>
+            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/model/ProdutoDAO.java</file>
+            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/ListarClientes.java</file>
+            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/model/ClienteDAO.java</file>
+            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/model/Cliente.java</file>
+            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/TelaClientes.java</file>
             <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/TelaProdutos.java</file>
             <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/TelaInicial.java</file>
             <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/model/Conexao.java</file>
-            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicialdao/ClienteDAO.java</file>
-            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/model/ProdutoDAO.java</file>
-            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/ListarClientes.java</file>
+            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/TelaLogin.java</file>
             <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/model/Produto.java</file>
-            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/model/ClienteDAO.java</file>
-            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicial/model/Cliente.java</file>
+            <file>file:/C:/Users/filip/Desktop/Senac%20TDS/Projeto%20integrador%20UC%2015/Etapa%204/CaixaFrente/src/telainicialdao/UsuarioDAO.java</file>
         </group>
     </open-files>
 </project-private>
